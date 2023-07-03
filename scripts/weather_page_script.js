@@ -182,3 +182,4 @@ function get__Random_Wind(number) {
 
 const test = 23;
 console.log("hello Julia");
+test = 1;
